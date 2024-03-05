@@ -5,5 +5,5 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   site: 'https://nuoxoxo.github.io',
-  base: '/bandcamper', // don't set if no path after `io/`
+  base: '/myspace', // don't set if no path after `io/`
 })
